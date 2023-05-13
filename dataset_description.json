@@ -3,7 +3,9 @@
     "BIDSVersion": "1.0.2",
     "Authors": [
         "Youngjo Song",
-        "Wooree Shin"
+        "Wooree Shin",
+        "Pyeong-soo Kim",
+        "Jaeseung Jeong"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004562.v1.0.0",
     "License": "CC0"
