@@ -9,5 +9,8 @@
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004562.v1.0.0",
     "License": "CC0",
-    "Funding": []
+    "Funding": [
+        "KAIST-funded Global Singularity Research Program",
+        "Bio & Medical Technology Development Program of the National Research Foundation (NRF) and Korean government (MSIT) [NRF2019M3E5D2A01066265]"
+    ]
 }
